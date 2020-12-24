@@ -1,0 +1,13 @@
+C:\Users\Victor\DigitalInnovationOne\Sistema_aluno\obj\Debug\netcoreapp3.1\Sistema_aluno.csprojAssemblyReference.cache
+C:\Users\Victor\DigitalInnovationOne\Sistema_aluno\obj\Debug\netcoreapp3.1\Sistema_aluno.AssemblyInfoInputs.cache
+C:\Users\Victor\DigitalInnovationOne\Sistema_aluno\obj\Debug\netcoreapp3.1\Sistema_aluno.AssemblyInfo.cs
+C:\Users\Victor\DigitalInnovationOne\Sistema_aluno\obj\Debug\netcoreapp3.1\Sistema_aluno.csproj.CoreCompileInputs.cache
+C:\Users\Victor\DigitalInnovationOne\Sistema_aluno\bin\Debug\netcoreapp3.1\Sistema_aluno.exe
+C:\Users\Victor\DigitalInnovationOne\Sistema_aluno\bin\Debug\netcoreapp3.1\Sistema_aluno.deps.json
+C:\Users\Victor\DigitalInnovationOne\Sistema_aluno\bin\Debug\netcoreapp3.1\Sistema_aluno.runtimeconfig.json
+C:\Users\Victor\DigitalInnovationOne\Sistema_aluno\bin\Debug\netcoreapp3.1\Sistema_aluno.runtimeconfig.dev.json
+C:\Users\Victor\DigitalInnovationOne\Sistema_aluno\bin\Debug\netcoreapp3.1\Sistema_aluno.dll
+C:\Users\Victor\DigitalInnovationOne\Sistema_aluno\bin\Debug\netcoreapp3.1\Sistema_aluno.pdb
+C:\Users\Victor\DigitalInnovationOne\Sistema_aluno\obj\Debug\netcoreapp3.1\Sistema_aluno.dll
+C:\Users\Victor\DigitalInnovationOne\Sistema_aluno\obj\Debug\netcoreapp3.1\Sistema_aluno.pdb
+C:\Users\Victor\DigitalInnovationOne\Sistema_aluno\obj\Debug\netcoreapp3.1\Sistema_aluno.genruntimeconfig.cache
